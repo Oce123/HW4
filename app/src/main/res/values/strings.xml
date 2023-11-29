@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LocationPlus</string>
+    <string name="toggle_description">Toggle Auto-Center</string>
+</resources>
