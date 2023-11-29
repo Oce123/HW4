@@ -76,6 +76,7 @@ public class MapsActivity extends AppCompatActivity implements LocationListener,
     private boolean geofenceAdded = false;
     private Button cancelGeofenceButton;
     private Marker mGeofenceMarker;
+    private boolean test=false;
 
 
     @RequiresApi(api = Build.VERSION_CODES.N)
